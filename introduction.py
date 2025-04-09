@@ -1,4 +1,5 @@
 from termcolor import colored as tc
+import time
 
 colors = ['red', 'yellow', 'green', 'cyan', 'blue', 'magenta']
 text = "Welcome to Pedro's Portfolio!"
@@ -8,4 +9,6 @@ def main():
         color = colors[i % len(colors)] 
         print(tc(char, color), end="")
     print("\n", tc("""This portfolio is a menu project that includes a list of 6 projects that I am proud of, all of the projects come with a breif description. """, 'light_grey'), sep="\n")
-          
+    time.sleep(.5)
+    print("...")
+    time.sleep(.5)
