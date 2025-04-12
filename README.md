@@ -26,9 +26,9 @@ Install all the libraries used in the project and then run the code after that t
 
 ## Contributors
 ---
-+ Fontstyle official documentation
-+ Termcolor official documentattion
-+ geeks4geeks
++ Fontstyle official documentation - documentation was used so that I could use the library correctly and make italic text
++ Termcolor official documentattion - documentation that taught me how to bold, underline, and color letters
++ geeks4geeks - just to learn about time library and some more things about the libraries that I used
 
 ## Author's Information
 ---
